@@ -68,7 +68,7 @@ A clean and fun clone of Flappy Bird built from scratch in Java using Swing. The
 
 1. **Clone or download the repo**
 2. **Ensure your IDE is set to Java 17+**
-3. **Run `GamePanel.java`** as a Java application
+3. **Run `App.java`** as a Java application
 
 ---
 
