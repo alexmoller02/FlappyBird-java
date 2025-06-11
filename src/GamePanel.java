@@ -19,10 +19,10 @@ public class GamePanel extends JPanel implements ActionListener, KeyListener {
 
     public GamePanel() {
         // Load assets
-        background = AssetLoader.load("/Sprites/flappybirdbg.png");
-        Image birdImage = AssetLoader.load("/Sprites/flappybird.png");
-        Image topPipeImage = AssetLoader.load("/Sprites/toppipe.png");
-        Image bottomPipeImage = AssetLoader.load("/Sprites/bottompipe.png");
+        background = AssetLoader.load("/Resources/Sprites/flappybirdbg.png");
+        Image birdImage = AssetLoader.load("/Resources/Sprites/flappybird.png");
+        Image topPipeImage = AssetLoader.load("/Resources/Sprites/toppipe.png");
+        Image bottomPipeImage = AssetLoader.load("/Resources/Sprites/bottompipe.png");
 
         SoundPlayer.preload();
 
