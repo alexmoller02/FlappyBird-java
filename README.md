@@ -120,5 +120,3 @@ This project is perfect if you're learning:
 
 Made with ❤️ and meat-exploding birds by [Alex Møller].
 ```
-
-Let me know if you'd like a version with GIFs, screenshots, or installation instructions for JARs.
