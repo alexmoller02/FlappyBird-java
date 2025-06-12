@@ -6,7 +6,7 @@
 ```markdown
 # 🐦 Java Flappy Bird Clone
 
-A clean and fun clone of Flappy Bird built from scratch in Java using Swing. The project features smooth animations, sound effects, and progressive difficulty.
+A clone of Flappy Bird built from scratch in Java using Swing. The project features animations, sound effects, and progressive difficulty.
 
 ---
 
@@ -16,7 +16,7 @@ A clean and fun clone of Flappy Bird built from scratch in Java using Swing. The
 - Gravity, jumping, and pipe obstacle mechanics
 - Particle-based blood explosion on collision
 - Pause and resume functionality (`ESC`)
-- Game Over screen with dynamic stamp animation
+- Game Over screen 
 - Sound system with:
   - Randomized flap (`whoosh`) sounds
   - Death and falling effects
@@ -27,7 +27,6 @@ A clean and fun clone of Flappy Bird built from scratch in Java using Swing. The
 - Responsive bird animations:
   - Bird rotates while flying
   - Scales and bounces on flap
-  - Flap sprite shows wing up
 
 ---
 
