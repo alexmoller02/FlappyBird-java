@@ -1,5 +1,3 @@
-Absolutely! Here's a `README.md` tailored for your Flappy Bird-style Java game, based on everything you've built:
-
 ---
 
 ```markdown
